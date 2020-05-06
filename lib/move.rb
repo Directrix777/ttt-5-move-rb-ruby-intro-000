@@ -11,3 +11,6 @@ def input_to_index(input)
   num = input.to_i
   num -= 1
 end
+
+def move
+end
